@@ -1,7 +1,4 @@
-from idlelib.rpc import response_queue
-
 import requests
-from altair import param
 
 base_url = "https://api.github.com"
 
